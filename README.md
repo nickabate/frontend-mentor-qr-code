@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-nextjstailwind-UWee_wA8R4)
+- Live Site URL: [View on Vercel](https://frontend-mentor-qr-code-nick-abate.vercel.app/)
 
 ## My process
 
